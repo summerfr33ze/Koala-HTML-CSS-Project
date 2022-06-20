@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: #006400;
+}
+
+h2 {
+    text-align: center;
+    color: #944b2a;
+}
+
+.koalabutton button {
+    
+    text-align: center;
+    background-color: #006400;
+    border: none;
+    padding: 15px 30px;
+    font-size:25px; 
+    text-decoration: none;
+}
+
+.koalabutton {text-align: center}
+
+.inline-block {
+    display: inline-block
+}
